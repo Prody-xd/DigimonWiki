@@ -1,0 +1,13 @@
+body {
+  background-color: #302b63;
+  color: white;
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+table thead{
+  background-color: #302b63;
+  color: white;
+}
+a {
+  color: #00B7FF;
+}
